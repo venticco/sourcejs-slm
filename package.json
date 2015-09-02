@@ -1,0 +1,20 @@
+{
+  "name": "sourcejs-slm",
+  "version": "0.1.0",
+  "author": "Krzysztof Jung",
+  "description": "Slm (Slim) support for SourceJS",
+  "dependencies": {
+    "deep-extend": "^0.3.2",
+    "slm": "^0.4.1"
+  },
+  "keywords": [
+    "sourcejs",
+    "slm",
+    "slim"
+  ],
+  "bugs": {
+    "url": "https://github.com/venticco/sourcejs-slm/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/venticco/sourcejs-slm"
+}
