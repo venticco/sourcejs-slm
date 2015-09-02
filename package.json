@@ -1,6 +1,6 @@
 {
   "name": "sourcejs-slm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Krzysztof Jung",
   "description": "Slm (Slim) support for SourceJS",
   "dependencies": {

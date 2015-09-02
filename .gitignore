@@ -1,2 +1,4 @@
 # Ignore npm packages
 /node_modules
+
+npm-debug.log
