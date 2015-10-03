@@ -12,6 +12,14 @@
     "slm",
     "slim"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/venticco/sourcejs-slm.git"
+  },
+  "keywords": [
+    "sourcejs",
+    "slim"
+  ],
   "bugs": {
     "url": "https://github.com/venticco/sourcejs-slm/issues"
   },
